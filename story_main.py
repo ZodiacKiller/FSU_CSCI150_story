@@ -77,6 +77,7 @@ def story():
     #add_line("") #no wild cards                                                                
     #add_line("{0}".format(var)) #with wild card
 
+    print "Hello Hannah Scott"
     
     return("\n".join(lines))
 
